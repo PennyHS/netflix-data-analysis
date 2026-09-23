@@ -1,7 +1,6 @@
 # Netflix Dataset Analysis - Data Preparation for Power BI
 
-## Project Overview
-This project analyzes Netflix content data (November 2019) using Python for data preparation and Power BI for visualization.
+Netflix content analysis (Nov 2019 dataset) using Python for data prep and Power BI for visuals.
 
 ## Dataset
 * **Source:** Netflix titles dataset (November 2019)
